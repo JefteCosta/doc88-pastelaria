@@ -3,6 +3,8 @@ esse é o teste em vue.js feito para DOC88 feito por Jefte Amorim da Costa
 
 Comando para ultilizar o app em modo desenvolvimento
 
+##Acessando o Projeto
+https://jeftecosta.github.io/doc88-pastelaria/
 
 ## Project setup
 ```

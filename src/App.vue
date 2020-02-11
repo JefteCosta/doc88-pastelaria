@@ -1,5 +1,4 @@
 <template>
-  
   <div id="app">
     <div class="head">
       <div class="container">
